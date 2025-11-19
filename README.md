@@ -47,9 +47,7 @@ ship_date = as.Date(ship_date, format = "%d/%m/%Y")
 order_year = year(order_date)
 order_month = month(order_date)
 
-
-
-Based on this Superstore dataset analysis, here are the key business insights and takeaways:
+## Based on this Superstore dataset analysis, here are the key business insights and takeaways:
 
 💰 Profitability Analysis
 Top Performing Products:
